@@ -67,7 +67,7 @@ public class WIMDActivity extends ActionBarActivity {
         String location = "---";
 
         location = db.getLocation(mac, rssi);
-        tv.setText(mac); //TODO for db testing - delete
+        tv.setText(location); //TODO for db testing - delete
 
         ws.setLocation(location);
     }

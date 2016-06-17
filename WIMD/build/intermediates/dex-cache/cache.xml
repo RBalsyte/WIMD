@@ -2,74 +2,74 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\kritz\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtdispatch\hawtdispatch\1.21\ec432502e903504b81c757940f916280b03c5696\hawtdispatch-1.21.jar"
+        jar="C:\Users\kritz\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtbuf\hawtbuf\1.10\a20907168eb4f05c8f777e1671d8070cd06715e4\hawtbuf-1.10.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="ec432502e903504b81c757940f916280b03c5696">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\hawtdispatch-1.21_4ed515962ef1ebcf9cc0b67e6fb3fdbc6847d7c2.jar" />
+        sha1="a20907168eb4f05c8f777e1671d8070cd06715e4">
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\hawtbuf-1.10_e36bf27ebfab4121f4f7ceff99a4bd86a0324079.jar" />
     </item>
     <item
-        jar="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jar="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_cb609fcea06c3295bbe49963c044ee3a65e951dd.jar" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_b67046ea217ce254078cf6b5c16eebbda64db74f.jar" />
     </item>
     <item
-        jar="C:\Users\kritz\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtdispatch\hawtdispatch-transport\1.21\94eece2d30f6d45324c48213762cdc2ec338e687\hawtdispatch-transport-1.21.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="94eece2d30f6d45324c48213762cdc2ec338e687">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\hawtdispatch-transport-1.21_9d71e554271a96a91086084921a22ae8b82b938a.jar" />
-    </item>
-    <item
-        jar="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jar="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_4603eff96d5ceca53505cf64fc31c45c7aea34b2.jar" />
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_5c87c58dc1ef252e36641e6a9bbd2409aec94465.jar" />
     </item>
     <item
-        jar="C:\Users\kritz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jar="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_0adf62cb6e13f828cef4eb02f032e2282eaae54d.jar" />
-    </item>
-    <item
-        jar="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_7817a6f14366c3eb4f3a58719cd8ea229f2580a1.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_3cbd9ff6225f656dc156fcbe3eec55a0aa5898cf.jar" />
     </item>
     <item
         jar="C:\Users\kritz\.gradle\caches\modules-2\files-2.1\org.fusesource.mqtt-client\mqtt-client\1.12\2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc\mqtt-client-1.12.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\mqtt-client-1.12_40d4ec88f8fc63123eee90ccf75a48e1e1973640.jar" />
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\mqtt-client-1.12_40d4ec88f8fc63123eee90ccf75a48e1e1973640.jar" />
     </item>
     <item
-        jar="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jar="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_ab7a13e25e6d35a2a946d83415fc3cad59c81e4c.jar" />
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_8af856b32e2db689f904b016adc98a98267a4b4f.jar" />
     </item>
     <item
-        jar="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jar="C:\Users\kritz\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtdispatch\hawtdispatch\1.21\ec432502e903504b81c757940f916280b03c5696\hawtdispatch-1.21.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_f23f78238d87214d3f35102d3271b8803e0ead7c.jar" />
+        sha1="ec432502e903504b81c757940f916280b03c5696">
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\hawtdispatch-1.21_4ed515962ef1ebcf9cc0b67e6fb3fdbc6847d7c2.jar" />
     </item>
     <item
-        jar="C:\Users\kritz\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtbuf\hawtbuf\1.10\a20907168eb4f05c8f777e1671d8070cd06715e4\hawtbuf-1.10.jar"
+        jar="C:\Users\kritz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="a20907168eb4f05c8f777e1671d8070cd06715e4">
-        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\app\build\intermediates\pre-dexed\debug\hawtbuf-1.10_e36bf27ebfab4121f4f7ceff99a4bd86a0324079.jar" />
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_0adf62cb6e13f828cef4eb02f032e2282eaae54d.jar" />
+    </item>
+    <item
+        jar="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_8d76f3c29b50f029dd11386a95aa63f632e244b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\kritz\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtdispatch\hawtdispatch-transport\1.21\94eece2d30f6d45324c48213762cdc2ec338e687\hawtdispatch-transport-1.21.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="94eece2d30f6d45324c48213762cdc2ec338e687">
+        <dex dex="C:\Users\kritz\Documents\EPS\WIMD\WIMD\app\build\intermediates\pre-dexed\debug\hawtdispatch-transport-1.21_9d71e554271a96a91086084921a22ae8b82b938a.jar" />
     </item>
 
 </items>

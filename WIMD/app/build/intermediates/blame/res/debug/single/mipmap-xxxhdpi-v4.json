@@ -14,5 +14,9 @@
     {
         "merged": "C:\\Users\\kritz\\Documents\\EPS\\WIMD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\kritz\\Documents\\EPS\\WIMD\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kritz\\Documents\\EPS\\WIMD\\WIMD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\kritz\\Documents\\EPS\\WIMD\\WIMD\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]
