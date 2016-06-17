@@ -8,10 +8,6 @@
         "source": "C:\\Users\\kritz\\Documents\\EPS\\WIMD\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\Users\\kritz\\Documents\\EPS\\WIMD\\WIMD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\kritz\\Documents\\EPS\\WIMD\\WIMD\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
-    },
-    {
         "merged": "C:\\Users\\kritz\\Documents\\EPS\\WatchSensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
         "source": "C:\\Users\\kritz\\Documents\\EPS\\WatchSensor\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
     },
