@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WatchSensor</string>
+    <string name="show_sensors">SHOW SENSORS</string>
+    <string name="service">SERVICE</string>
+    <string name="wifi_scan">Toggle Scanning</string>
+    <string name="your_wifi">Your Sensing</string>
+    <string name="sensing_of">%s\'s sensing</string>
+
+</resources>
