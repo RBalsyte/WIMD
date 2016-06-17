@@ -1347,6 +1347,9 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020032;
         public static final int common_full_open_on_phone=0x7f020033;
         public static final int common_ic_googleplayservices=0x7f020034;
+        public static final int logo=0x7f020035;
+        public static final int logo_small=0x7f020036;
+        public static final int search=0x7f020037;
     }
     public static final class id {
         public static final int action_bar=0x7f0c0033;
@@ -1383,17 +1386,19 @@ containing a value of this type.
         public static final int icon=0x7f0c0028;
         public static final int ifRoom=0x7f0c001a;
         public static final int image=0x7f0c0025;
-        public static final int linearLayout=0x7f0c0046;
+        public static final int imageView=0x7f0c0044;
+        public static final int imageView2=0x7f0c0048;
+        public static final int linearLayout=0x7f0c0047;
         public static final int listMode=0x7f0c0009;
         public static final int list_item=0x7f0c0027;
-        public static final int message=0x7f0c004b;
+        public static final int message=0x7f0c004d;
         public static final int middle=0x7f0c0015;
         public static final int never=0x7f0c001b;
         public static final int none=0x7f0c000e;
         public static final int normal=0x7f0c000a;
-        public static final int otherLinearLayout=0x7f0c0048;
-        public static final int otherSensorContent=0x7f0c004a;
-        public static final int otherSensorName=0x7f0c0049;
+        public static final int otherLinearLayout=0x7f0c004a;
+        public static final int otherSensorContent=0x7f0c004c;
+        public static final int otherSensorName=0x7f0c004b;
         public static final int progress_circular=0x7f0c0005;
         public static final int progress_horizontal=0x7f0c0006;
         public static final int radio=0x7f0c002d;
@@ -1410,7 +1415,7 @@ containing a value of this type.
         public static final int sensorContent=0x7f0c0041;
         public static final int sensorName=0x7f0c0042;
         public static final int sensors=0x7f0c0043;
-        public static final int serviceButton=0x7f0c0044;
+        public static final int serviceButton=0x7f0c0046;
         public static final int shortcut=0x7f0c002c;
         public static final int showCustom=0x7f0c000f;
         public static final int showHome=0x7f0c0010;
@@ -1419,7 +1424,7 @@ containing a value of this type.
         public static final int submit_area=0x7f0c003e;
         public static final int tabMode=0x7f0c000b;
         public static final int title=0x7f0c0029;
-        public static final int toggle_wifi_scan=0x7f0c0047;
+        public static final int toggle_wifi_scan=0x7f0c0049;
         public static final int up=0x7f0c0008;
         public static final int useLogo=0x7f0c0012;
         public static final int wimdButton=0x7f0c0045;

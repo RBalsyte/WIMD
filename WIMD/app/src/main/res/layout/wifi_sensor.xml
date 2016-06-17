@@ -23,6 +23,12 @@
             android:orientation="horizontal"
             android:id="@+id/linearLayout">
 
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="71dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/search" />
+
             <ToggleButton
                 android:layout_width="@dimen/watch_horizontal_25_percent_margin"
                 android:layout_height="wrap_content"

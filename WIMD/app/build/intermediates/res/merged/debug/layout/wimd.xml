@@ -7,22 +7,21 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1.09"
-        android:weightSum="1">
+        android:layout_height="match_parent">
 
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="0.04">
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="71dp"
+            android:id="@+id/imageView2"
+            android:src="@drawable/search" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Unknown location..."
-                android:id="@+id/message" />
-        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Unkown location"
+            android:id="@+id/message"
+            android:layout_gravity="center_horizontal" />
 
     </LinearLayout>
 </LinearLayout>

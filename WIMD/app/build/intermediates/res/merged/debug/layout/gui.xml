@@ -7,28 +7,28 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1.09"
+        android:layout_height="match_parent"
         android:weightSum="1">
 
-        <LinearLayout
-            android:orientation="horizontal"
+        <ImageView
             android:layout_width="match_parent"
+            android:layout_height="104dp"
+            android:id="@+id/imageView"
+            android:src="@drawable/logo_small" />
+
+        <Button
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="0.04">
+            android:text="Where is my dearest?"
+            android:id="@+id/wimdButton"
+            android:layout_gravity="center_horizontal" />
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Add Location"
-                android:id="@+id/serviceButton" />
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Where is my dearest?"
-                android:id="@+id/wimdButton" />
-        </LinearLayout>
-
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="add location"
+            android:id="@+id/serviceButton"
+            android:layout_gravity="right" />
     </LinearLayout>
 </LinearLayout>
