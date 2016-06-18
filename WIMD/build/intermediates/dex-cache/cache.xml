@@ -1,3 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_27e3faa386451af16872f319adcb2f1179d0240f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_2e422f59178c3c1150ad47d05db44c3eab0e7b5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtdispatch\hawtdispatch\1.21\ec432502e903504b81c757940f916280b03c5696\hawtdispatch-1.21.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ec432502e903504b81c757940f916280b03c5696">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\hawtdispatch-1.21_143e0b17c4b388441c58f29f7c97bc6630243827.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_0e091c2b22dbb20fc05c432ba7fbbe5811e98e45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtdispatch\hawtdispatch-transport\1.21\94eece2d30f6d45324c48213762cdc2ec338e687\hawtdispatch-transport-1.21.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="94eece2d30f6d45324c48213762cdc2ec338e687">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\hawtdispatch-transport-1.21_418374d827c7ee650b26797db37768cf3342af4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtbuf\hawtbuf\1.10\a20907168eb4f05c8f777e1671d8070cd06715e4\hawtbuf-1.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a20907168eb4f05c8f777e1671d8070cd06715e4">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\hawtbuf-1.10_5b7702580fce782be38fb93e45ae2d4dc040d1d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_52adcb161a4a47d48f65e87e78410d594bde9051.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\.gradle\caches\modules-2\files-2.1\org.fusesource.mqtt-client\mqtt-client\1.12\2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc\mqtt-client-1.12.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\mqtt-client-1.12_3003b4ad4ffeea993734a5f486526cf865d65fe6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_00f237a9b289030d08e4a945b9b790e389fdb0ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Schnecke\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Schnecke\Documents\GitHub\WIMD\trunk\WIMD\wimd\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_57c50f039733e612b04a642b2a0659d78feb231d.jar" />
+    </item>
+
+</items>
